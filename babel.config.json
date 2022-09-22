@@ -1,0 +1,7 @@
+// permite transformar código escrito con las últimas y novedosas características de JavaScript 
+// y transformarlo en un código que sea entendido por navegadores más antiguos.
+
+
+{
+    "presets": ["@babel/preset-env"]
+}

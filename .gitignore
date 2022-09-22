@@ -1,0 +1,5 @@
+
+# Archivos que seran ignorados por GIT
+
+node_modules/
+dist/
